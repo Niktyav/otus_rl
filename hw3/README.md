@@ -1,5 +1,5 @@
 # Reinforcement_Learning  ДЗ3 
-реализация алгоритма RL(A2C) на примере среды CarRacing-v3
+реализация алгоритма RL(A2C) на примере среды CarRacing-v3  
 Структура решения:  
 a2c_car_racing.zip   - веса модели StableBaselines3  
 car_racing_random.gif - визуализация работы случайной политики
